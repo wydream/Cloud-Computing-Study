@@ -1,0 +1,718 @@
+131
+
+ [0] APP
+ 1.0.0.0:0 [0] APP MP2
+ 2.0.0.0:0 [0] APP
+ 2.0.0.0:0 [0] APP MP2
+ 3.0.0.0:0 [0] APP
+ 3.0.0.0:0 [0] APP MP2
+ 4.0.0.0:0 [0] APP
+ 4.0.0.0:0 [0] APP MP2
+ 5.0.0.0:0 [0] APP
+ 5.0.0.0:0 [0] APP MP2
+ 6.0.0.0:0 [0] APP
+ 6.0.0.0:0 [0] APP MP2
+ 7.0.0.0:0 [0] APP
+ 7.0.0.0:0 [0] APP MP2
+ 8.0.0.0:0 [0] APP
+ 8.0.0.0:0 [0] APP MP2
+ 9.0.0.0:0 [0] APP
+ 9.0.0.0:0 [0] APP MP2
+ 10.0.0.0:0 [0] APP
+ 10.0.0.0:0 [0] APP MP2
+ 4.0.0.0:0 [0] Trying to join...
+ 3.0.0.0:0 [0] Trying to join...
+ 2.0.0.0:0 [0] Trying to join...
+ 1.0.0.0:0 [0] Starting up group...
+ 8.0.0.0:0 [1] Trying to join...
+ 7.0.0.0:0 [1] Trying to join...
+ 6.0.0.0:0 [1] Trying to join...
+ 5.0.0.0:0 [1] Trying to join...
+ 1.0.0.0:0 [1] Node 2.0.0.0:0 joined at time 1
+ 1.0.0.0:0 [1] Node 3.0.0.0:0 joined at time 1
+ 1.0.0.0:0 [1] Node 4.0.0.0:0 joined at time 1
+ 10.0.0.0:0 [2] Trying to join...
+ 9.0.0.0:0 [2] Trying to join...
+ 4.0.0.0:0 [2] Node 2.0.0.0:0 joined at time 2
+ 4.0.0.0:0 [2] Node 3.0.0.0:0 joined at time 2
+ 4.0.0.0:0 [2] Node 1.0.0.0:0 joined at time 2
+ 3.0.0.0:0 [2] Node 2.0.0.0:0 joined at time 2
+ 3.0.0.0:0 [2] Node 1.0.0.0:0 joined at time 2
+ 2.0.0.0:0 [2] Node 1.0.0.0:0 joined at time 2
+ 2.0.0.0:0 [2] Node 3.0.0.0:0 joined at time 2
+ 2.0.0.0:0 [2] Node 4.0.0.0:0 joined at time 2
+ 1.0.0.0:0 [2] Node 5.0.0.0:0 joined at time 2
+ 1.0.0.0:0 [2] Node 6.0.0.0:0 joined at time 2
+ 1.0.0.0:0 [2] Node 7.0.0.0:0 joined at time 2
+ 1.0.0.0:0 [2] Node 8.0.0.0:0 joined at time 2
+ 8.0.0.0:0 [3] Node 2.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 3.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 4.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 5.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 6.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 7.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 1.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 2.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 3.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 4.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 5.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 6.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 8.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 1.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 2.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 3.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 4.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 5.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 1.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 7.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 8.0.0.0:0 joined at time 3
+ 5.0.0.0:0 [3] Node 2.0.0.0:0 joined at time 3
+ 5.0.0.0:0 [3] Node 3.0.0.0:0 joined at time 3
+ 5.0.0.0:0 [3] Node 4.0.0.0:0 joined at time 3
+ 5.0.0.0:0 [3] Node 1.0.0.0:0 joined at time 3
+ 3.0.0.0:0 [3] Node 4.0.0.0:0 joined at time 3
+ 2.0.0.0:0 [3] Node 5.0.0.0:0 joined at time 3
+ 2.0.0.0:0 [3] Node 6.0.0.0:0 joined at time 3
+ 2.0.0.0:0 [3] Node 7.0.0.0:0 joined at time 3
+ 2.0.0.0:0 [3] Node 8.0.0.0:0 joined at time 3
+ 1.0.0.0:0 [3] Node 9.0.0.0:0 joined at time 3
+ 1.0.0.0:0 [3] Node 10.0.0.0:0 joined at time 3
+ 10.0.0.0:0 [4] Node 2.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 3.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 4.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 5.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 6.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 7.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 8.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 9.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 1.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 2.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 3.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 4.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 5.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 6.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 7.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 8.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 10.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 1.0.0.0:0 joined at time 4
+ 5.0.0.0:0 [4] Node 7.0.0.0:0 joined at time 4
+ 5.0.0.0:0 [4] Node 8.0.0.0:0 joined at time 4
+ 5.0.0.0:0 [4] Node 6.0.0.0:0 joined at time 4
+ 4.0.0.0:0 [4] Node 5.0.0.0:0 joined at time 4
+ 4.0.0.0:0 [4] Node 6.0.0.0:0 joined at time 4
+ 4.0.0.0:0 [4] Node 7.0.0.0:0 joined at time 4
+ 4.0.0.0:0 [4] Node 8.0.0.0:0 joined at time 4
+ 4.0.0.0:0 [4] Node 9.0.0.0:0 joined at time 4
+ 4.0.0.0:0 [4] Node 10.0.0.0:0 joined at time 4
+ 3.0.0.0:0 [4] Node 5.0.0.0:0 joined at time 4
+ 3.0.0.0:0 [4] Node 6.0.0.0:0 joined at time 4
+ 3.0.0.0:0 [4] Node 8.0.0.0:0 joined at time 4
+ 3.0.0.0:0 [4] Node 7.0.0.0:0 joined at time 4
+ 3.0.0.0:0 [4] Node 9.0.0.0:0 joined at time 4
+ 3.0.0.0:0 [4] Node 10.0.0.0:0 joined at time 4
+ 2.0.0.0:0 [4] Node 9.0.0.0:0 joined at time 4
+ 2.0.0.0:0 [4] Node 10.0.0.0:0 joined at time 4
+ 8.0.0.0:0 [5] Node 9.0.0.0:0 joined at time 5
+ 8.0.0.0:0 [5] Node 10.0.0.0:0 joined at time 5
+ 7.0.0.0:0 [5] Node 9.0.0.0:0 joined at time 5
+ 7.0.0.0:0 [5] Node 10.0.0.0:0 joined at time 5
+ 6.0.0.0:0 [5] Node 9.0.0.0:0 joined at time 5
+ 6.0.0.0:0 [5] Node 10.0.0.0:0 joined at time 5
+ 5.0.0.0:0 [5] Node 9.0.0.0:0 joined at time 5
+ 5.0.0.0:0 [5] Node 10.0.0.0:0 joined at time 5
+ 1.0.0.0:0 [53] update the ring
+ 2.0.0.0:0 [53] update the ring
+ 3.0.0.0:0 [53] update the ring
+ 4.0.0.0:0 [53] update the ring
+ 5.0.0.0:0 [53] update the ring
+ 6.0.0.0:0 [53] update the ring
+ 7.0.0.0:0 [53] update the ring
+ 8.0.0.0:0 [53] update the ring
+ 9.0.0.0:0 [53] update the ring
+ 10.0.0.0:0 [53] update the ring
+ 1.0.0.0:0 [100] CREATE OPERATION KEY: 08xOI VALUE: value10 at time: 100
+ 5.0.0.0:0 [100] CREATE OPERATION KEY: 0e6GD VALUE: value76 at time: 100
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: 1Moid VALUE: value41 at time: 100
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: 27aMy VALUE: value70 at time: 100
+ 5.0.0.0:0 [100] CREATE OPERATION KEY: 3tgkg VALUE: value81 at time: 100
+ 5.0.0.0:0 [100] server: create success at time 100, transID=4, key=3tgkg, value=value81:100:2
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: 4QKrM VALUE: value38 at time: 100
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: 4StxJ VALUE: value78 at time: 100
+ 1.0.0.0:0 [100] CREATE OPERATION KEY: 4qPoo VALUE: value17 at time: 100
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: 5B4Zl VALUE: value86 at time: 100
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: 5Dz2y VALUE: value24 at time: 100
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: 5ojlV VALUE: value56 at time: 100
+ 5.0.0.0:0 [100] CREATE OPERATION KEY: 5tuhB VALUE: value49 at time: 100
+ 5.0.0.0:0 [100] server: create success at time 100, transID=11, key=5tuhB, value=value49:100:2
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: 8W7KX VALUE: value85 at time: 100
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: 8gsHw VALUE: value98 at time: 100
+ 6.0.0.0:0 [100] CREATE OPERATION KEY: 8hiRA VALUE: value30 at time: 100
+ 5.0.0.0:0 [100] CREATE OPERATION KEY: 9NsVn VALUE: value81 at time: 100
+ 5.0.0.0:0 [100] server: create success at time 100, transID=15, key=9NsVn, value=value81:100:1
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: ANyBc VALUE: value13 at time: 100
+ 2.0.0.0:0 [100] CREATE OPERATION KEY: AsPeh VALUE: value49 at time: 100
+ 6.0.0.0:0 [100] CREATE OPERATION KEY: BkfgW VALUE: value28 at time: 100
+ 6.0.0.0:0 [100] server: create success at time 100, transID=18, key=BkfgW, value=value28:100:2
+ 5.0.0.0:0 [100] CREATE OPERATION KEY: C2AcP VALUE: value92 at time: 100
+ 6.0.0.0:0 [100] CREATE OPERATION KEY: CQej7 VALUE: value58 at time: 100
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: CzTbz VALUE: value21 at time: 100
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: D8lpp VALUE: value87 at time: 100
+ 7.0.0.0:0 [100] server: create success at time 100, transID=22, key=D8lpp, value=value87:100:1
+ 5.0.0.0:0 [100] CREATE OPERATION KEY: DYtot VALUE: value6 at time: 100
+ 5.0.0.0:0 [100] server: create success at time 100, transID=23, key=DYtot, value=value6:100:2
+ 1.0.0.0:0 [100] CREATE OPERATION KEY: Du7AQ VALUE: value56 at time: 100
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: E3Aip VALUE: value9 at time: 100
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: EAPIb VALUE: value2 at time: 100
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: F1y5F VALUE: value37 at time: 100
+ 4.0.0.0:0 [100] CREATE OPERATION KEY: Fx5Ix VALUE: value9 at time: 100
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: HMt71 VALUE: value68 at time: 100
+ 5.0.0.0:0 [100] CREATE OPERATION KEY: Hak6B VALUE: value62 at time: 100
+ 2.0.0.0:0 [100] CREATE OPERATION KEY: JAJJX VALUE: value56 at time: 100
+ 5.0.0.0:0 [100] CREATE OPERATION KEY: Jyn2e VALUE: value68 at time: 100
+ 2.0.0.0:0 [100] CREATE OPERATION KEY: JzkZs VALUE: value94 at time: 100
+ 2.0.0.0:0 [100] server: create success at time 100, transID=33, key=JzkZs, value=value94:100:0
+ 2.0.0.0:0 [100] CREATE OPERATION KEY: KdP7p VALUE: value46 at time: 100
+ 2.0.0.0:0 [100] server: create success at time 100, transID=34, key=KdP7p, value=value46:100:0
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: KjMb9 VALUE: value60 at time: 100
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: LRdFv VALUE: value17 at time: 100
+ 3.0.0.0:0 [100] CREATE OPERATION KEY: MKpaL VALUE: value52 at time: 100
+ 3.0.0.0:0 [100] server: create success at time 100, transID=37, key=MKpaL, value=value52:100:0
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: MpjeL VALUE: value17 at time: 100
+ 6.0.0.0:0 [100] CREATE OPERATION KEY: Mr6dS VALUE: value37 at time: 100
+ 2.0.0.0:0 [100] CREATE OPERATION KEY: N9L6R VALUE: value94 at time: 100
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: NuEZN VALUE: value2 at time: 100
+ 7.0.0.0:0 [100] server: create success at time 100, transID=41, key=NuEZN, value=value2:100:1
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: OiWjQ VALUE: value99 at time: 100
+ 9.0.0.0:0 [100] server: create success at time 100, transID=42, key=OiWjQ, value=value99:100:1
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: PS1Xh VALUE: value47 at time: 100
+ 10.0.0.0:0 [100] server: create success at time 100, transID=43, key=PS1Xh, value=value47:100:0
+ 1.0.0.0:0 [100] CREATE OPERATION KEY: PdZaO VALUE: value9 at time: 100
+ 3.0.0.0:0 [100] CREATE OPERATION KEY: PrKzA VALUE: value71 at time: 100
+ 1.0.0.0:0 [100] CREATE OPERATION KEY: PsQfG VALUE: value3 at time: 100
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: Q1nM8 VALUE: value67 at time: 100
+ 8.0.0.0:0 [100] server: create success at time 100, transID=47, key=Q1nM8, value=value67:100:2
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: QnKOx VALUE: value49 at time: 100
+ 4.0.0.0:0 [100] CREATE OPERATION KEY: RJ2pE VALUE: value42 at time: 100
+ 3.0.0.0:0 [100] CREATE OPERATION KEY: RbueP VALUE: value23 at time: 100
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: SGmu2 VALUE: value59 at time: 100
+ 3.0.0.0:0 [100] CREATE OPERATION KEY: T5SRO VALUE: value43 at time: 100
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: Ufd7h VALUE: value59 at time: 100
+ 4.0.0.0:0 [100] CREATE OPERATION KEY: UzK4V VALUE: value39 at time: 100
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: Vao4f VALUE: value66 at time: 100
+ 4.0.0.0:0 [100] CREATE OPERATION KEY: XgBHO VALUE: value50 at time: 100
+ 2.0.0.0:0 [100] CREATE OPERATION KEY: XvGef VALUE: value32 at time: 100
+ 1.0.0.0:0 [100] CREATE OPERATION KEY: bAiwN VALUE: value93 at time: 100
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: bFlXr VALUE: value92 at time: 100
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: bq4Ym VALUE: value24 at time: 100
+ 3.0.0.0:0 [100] CREATE OPERATION KEY: cJJei VALUE: value36 at time: 100
+ 1.0.0.0:0 [100] CREATE OPERATION KEY: cRFDY VALUE: value20 at time: 100
+ 6.0.0.0:0 [100] CREATE OPERATION KEY: ec3Zp VALUE: value42 at time: 100
+ 1.0.0.0:0 [100] CREATE OPERATION KEY: fcRQY VALUE: value2 at time: 100
+ 2.0.0.0:0 [100] CREATE OPERATION KEY: ftuEf VALUE: value26 at time: 100
+ 6.0.0.0:0 [100] CREATE OPERATION KEY: h3qRF VALUE: value46 at time: 100
+ 6.0.0.0:0 [100] server: create success at time 100, transID=66, key=h3qRF, value=value46:100:1
+ 6.0.0.0:0 [100] CREATE OPERATION KEY: haPF1 VALUE: value72 at time: 100
+ 4.0.0.0:0 [100] CREATE OPERATION KEY: i6vdX VALUE: value6 at time: 100
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: iHeGD VALUE: value91 at time: 100
+ 2.0.0.0:0 [100] CREATE OPERATION KEY: initQ VALUE: value77 at time: 100
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: iwmZ1 VALUE: value88 at time: 100
+ 7.0.0.0:0 [100] CREATE OPERATION KEY: iy7vy VALUE: value80 at time: 100
+ 4.0.0.0:0 [100] CREATE OPERATION KEY: j6dNG VALUE: value46 at time: 100
+ 3.0.0.0:0 [100] CREATE OPERATION KEY: l7Nnd VALUE: value95 at time: 100
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: mYK9J VALUE: value24 at time: 100
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: mz10B VALUE: value93 at time: 100
+ 3.0.0.0:0 [100] CREATE OPERATION KEY: oJpX0 VALUE: value29 at time: 100
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: qA6WT VALUE: value51 at time: 100
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: rhaW2 VALUE: value55 at time: 100
+ 8.0.0.0:0 [100] server: create success at time 100, transID=79, key=rhaW2, value=value55:100:2
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: rxHU1 VALUE: value95 at time: 100
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: sDKye VALUE: value57 at time: 100
+ 8.0.0.0:0 [100] server: create success at time 100, transID=81, key=sDKye, value=value57:100:0
+ 6.0.0.0:0 [100] CREATE OPERATION KEY: sb2hw VALUE: value37 at time: 100
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: tnJjW VALUE: value48 at time: 100
+ 4.0.0.0:0 [100] CREATE OPERATION KEY: usDDW VALUE: value59 at time: 100
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: vSLlt VALUE: value64 at time: 100
+ 8.0.0.0:0 [100] server: create success at time 100, transID=85, key=vSLlt, value=value64:100:2
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: vaRtp VALUE: value72 at time: 100
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: vrN8C VALUE: value3 at time: 100
+ 9.0.0.0:0 [100] server: create success at time 100, transID=87, key=vrN8C, value=value3:100:2
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: vvFEk VALUE: value3 at time: 100
+ 8.0.0.0:0 [100] CREATE OPERATION KEY: xj0n8 VALUE: value45 at time: 100
+ 6.0.0.0:0 [100] CREATE OPERATION KEY: xm2V1 VALUE: value97 at time: 100
+ 6.0.0.0:0 [100] server: create success at time 100, transID=90, key=xm2V1, value=value97:100:0
+ 4.0.0.0:0 [100] CREATE OPERATION KEY: xoj6Y VALUE: value56 at time: 100
+ 1.0.0.0:0 [100] CREATE OPERATION KEY: yGgQO VALUE: value11 at time: 100
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: yeyvu VALUE: value93 at time: 100
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: ynrhd VALUE: value58 at time: 100
+ 4.0.0.0:0 [100] CREATE OPERATION KEY: yocss VALUE: value93 at time: 100
+ 9.0.0.0:0 [100] CREATE OPERATION KEY: z031k VALUE: value8 at time: 100
+ 10.0.0.0:0 [100] CREATE OPERATION KEY: zkzCD VALUE: value25 at time: 100
+ 1.0.0.0:0 [100] CREATE OPERATION KEY: zpwMv VALUE: value37 at time: 100
+ 5.0.0.0:0 [100] CREATE OPERATION KEY: zyV7D VALUE: value1 at time: 100
+ 5.0.0.0:0 [100] server: create success at time 100, transID=99, key=zyV7D, value=value1:100:1
+ 10.0.0.0:0 [101] server: create success at time 101, transID=54, key=UzK4V, value=value39:100:0
+ 10.0.0.0:0 [101] server: create success at time 101, transID=91, key=xoj6Y, value=value56:100:0
+ 10.0.0.0:0 [101] server: create success at time 101, transID=7, key=4qPoo, value=value17:100:2
+ 10.0.0.0:0 [101] server: create success at time 101, transID=57, key=XvGef, value=value32:100:0
+ 10.0.0.0:0 [101] server: create success at time 101, transID=27, key=F1y5F, value=value37:100:2
+ 10.0.0.0:0 [101] server: create success at time 101, transID=18, key=BkfgW, value=value28:100:0
+ 10.0.0.0:0 [101] server: create success at time 101, transID=82, key=sb2hw, value=value37:100:1
+ 10.0.0.0:0 [101] server: create success at time 101, transID=65, key=ftuEf, value=value26:100:1
+ 10.0.0.0:0 [101] server: create success at time 101, transID=68, key=i6vdX, value=value6:100:0
+ 10.0.0.0:0 [101] server: create success at time 101, transID=21, key=CzTbz, value=value21:100:0
+ 10.0.0.0:0 [101] server: create success at time 101, transID=64, key=fcRQY, value=value2:100:2
+ 10.0.0.0:0 [101] server: create success at time 101, transID=86, key=vaRtp, value=value72:100:0
+ 10.0.0.0:0 [101] server: create success at time 101, transID=81, key=sDKye, value=value57:100:1
+ 10.0.0.0:0 [101] server: create success at time 101, transID=40, key=N9L6R, value=value94:100:1
+ 10.0.0.0:0 [101] server: create success at time 101, transID=14, key=8hiRA, value=value30:100:1
+ 10.0.0.0:0 [101] server: create success at time 101, transID=3, key=27aMy, value=value70:100:0
+ 10.0.0.0:0 [101] server: create success at time 101, transID=59, key=bFlXr, value=value92:100:2
+ 10.0.0.0:0 [101] server: create success at time 101, transID=84, key=usDDW, value=value59:100:1
+ 10.0.0.0:0 [101] server: create success at time 101, transID=19, key=C2AcP, value=value92:100:2
+ 10.0.0.0:0 [101] server: create success at time 101, transID=31, key=JAJJX, value=value56:100:2
+ 10.0.0.0:0 [101] server: create success at time 101, transID=1, key=0e6GD, value=value76:100:1
+ 10.0.0.0:0 [101] server: create success at time 101, transID=38, key=MpjeL, value=value17:100:1
+ 10.0.0.0:0 [101] server: create success at time 101, transID=0, key=08xOI, value=value10:100:2
+ 10.0.0.0:0 [101] server: create success at time 101, transID=50, key=RbueP, value=value23:100:0
+ 10.0.0.0:0 [101] server: create success at time 101, transID=67, key=haPF1, value=value72:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=92, key=yGgQO, value=value11:100:2
+ 9.0.0.0:0 [101] server: create success at time 101, transID=35, key=KjMb9, value=value60:100:2
+ 9.0.0.0:0 [101] server: create success at time 101, transID=39, key=Mr6dS, value=value37:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=72, key=iy7vy, value=value80:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=16, key=ANyBc, value=value13:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=48, key=QnKOx, value=value49:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=85, key=vSLlt, value=value64:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=27, key=F1y5F, value=value37:100:0
+ 9.0.0.0:0 [101] server: create success at time 101, transID=37, key=MKpaL, value=value52:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=12, key=8W7KX, value=value85:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=44, key=PdZaO, value=value9:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=80, key=rxHU1, value=value95:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=47, key=Q1nM8, value=value67:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=63, key=ec3Zp, value=value42:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=28, key=Fx5Ix, value=value9:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=73, key=j6dNG, value=value46:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=7, key=4qPoo, value=value17:100:0
+ 9.0.0.0:0 [101] server: create success at time 101, transID=79, key=rhaW2, value=value55:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=6, key=4StxJ, value=value78:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=69, key=iHeGD, value=value91:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=31, key=JAJJX, value=value56:100:0
+ 9.0.0.0:0 [101] server: create success at time 101, transID=46, key=PsQfG, value=value3:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=20, key=CQej7, value=value58:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=30, key=Hak6B, value=value62:100:1
+ 9.0.0.0:0 [101] server: create success at time 101, transID=59, key=bFlXr, value=value92:100:0
+ 9.0.0.0:0 [101] server: create success at time 101, transID=64, key=fcRQY, value=value2:100:0
+ 9.0.0.0:0 [101] server: create success at time 101, transID=19, key=C2AcP, value=value92:100:0
+ 9.0.0.0:0 [101] server: create success at time 101, transID=0, key=08xOI, value=value10:100:0
+ 8.0.0.0:0 [101] server: create success at time 101, transID=40, key=N9L6R, value=value94:100:0
+ 8.0.0.0:0 [101] server: create success at time 101, transID=39, key=Mr6dS, value=value37:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=28, key=Fx5Ix, value=value9:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=27, key=F1y5F, value=value37:100:1
+ 8.0.0.0:0 [101] server: create success at time 101, transID=72, key=iy7vy, value=value80:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=42, key=OiWjQ, value=value99:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=38, key=MpjeL, value=value17:100:0
+ 8.0.0.0:0 [101] server: create success at time 101, transID=80, key=rxHU1, value=value95:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=67, key=haPF1, value=value72:100:0
+ 8.0.0.0:0 [101] server: create success at time 101, transID=37, key=MKpaL, value=value52:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=84, key=usDDW, value=value59:100:0
+ 8.0.0.0:0 [101] server: create success at time 101, transID=59, key=bFlXr, value=value92:100:1
+ 8.0.0.0:0 [101] server: create success at time 101, transID=20, key=CQej7, value=value58:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=19, key=C2AcP, value=value92:100:1
+ 8.0.0.0:0 [101] server: create success at time 101, transID=48, key=QnKOx, value=value49:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=16, key=ANyBc, value=value13:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=14, key=8hiRA, value=value30:100:0
+ 8.0.0.0:0 [101] server: create success at time 101, transID=44, key=PdZaO, value=value9:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=12, key=8W7KX, value=value85:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=69, key=iHeGD, value=value91:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=82, key=sb2hw, value=value37:100:0
+ 8.0.0.0:0 [101] server: create success at time 101, transID=31, key=JAJJX, value=value56:100:1
+ 8.0.0.0:0 [101] server: create success at time 101, transID=65, key=ftuEf, value=value26:100:0
+ 8.0.0.0:0 [101] server: create success at time 101, transID=7, key=4qPoo, value=value17:100:1
+ 8.0.0.0:0 [101] server: create success at time 101, transID=6, key=4StxJ, value=value78:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=46, key=PsQfG, value=value3:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=30, key=Hak6B, value=value62:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=73, key=j6dNG, value=value46:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=64, key=fcRQY, value=value2:100:1
+ 8.0.0.0:0 [101] server: create success at time 101, transID=63, key=ec3Zp, value=value42:100:2
+ 8.0.0.0:0 [101] server: create success at time 101, transID=1, key=0e6GD, value=value76:100:0
+ 8.0.0.0:0 [101] server: create success at time 101, transID=0, key=08xOI, value=value10:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=62, key=cRFDY, value=value20:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=45, key=PrKzA, value=value71:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=83, key=tnJjW, value=value48:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=60, key=bq4Ym, value=value24:100:0
+ 7.0.0.0:0 [101] server: create success at time 101, transID=94, key=ynrhd, value=value58:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=58, key=bAiwN, value=value93:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=89, key=xj0n8, value=value45:100:2
+ 7.0.0.0:0 [101] server: create success at time 101, transID=90, key=xm2V1, value=value97:100:2
+ 7.0.0.0:0 [101] server: create success at time 101, transID=51, key=SGmu2, value=value59:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=93, key=yeyvu, value=value93:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=52, key=T5SRO, value=value43:100:0
+ 7.0.0.0:0 [101] server: create success at time 101, transID=34, key=KdP7p, value=value46:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=33, key=JzkZs, value=value94:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=32, key=Jyn2e, value=value68:100:2
+ 7.0.0.0:0 [101] server: create success at time 101, transID=76, key=mz10B, value=value93:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=29, key=HMt71, value=value68:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=56, key=XgBHO, value=value50:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=88, key=vvFEk, value=value3:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=26, key=EAPIb, value=value2:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=61, key=cJJei, value=value36:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=25, key=E3Aip, value=value9:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=55, key=Vao4f, value=value66:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=24, key=Du7AQ, value=value56:100:0
+ 7.0.0.0:0 [101] server: create success at time 101, transID=23, key=DYtot, value=value6:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=98, key=zpwMv, value=value37:100:0
+ 7.0.0.0:0 [101] server: create success at time 101, transID=49, key=RJ2pE, value=value42:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=96, key=z031k, value=value8:100:0
+ 7.0.0.0:0 [101] server: create success at time 101, transID=17, key=AsPeh, value=value49:100:0
+ 7.0.0.0:0 [101] server: create success at time 101, transID=99, key=zyV7D, value=value1:100:0
+ 7.0.0.0:0 [101] server: create success at time 101, transID=15, key=9NsVn, value=value81:100:0
+ 7.0.0.0:0 [101] server: create success at time 101, transID=13, key=8gsHw, value=value98:100:2
+ 7.0.0.0:0 [101] server: create success at time 101, transID=74, key=l7Nnd, value=value95:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=11, key=5tuhB, value=value49:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=53, key=Ufd7h, value=value59:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=10, key=5ojlV, value=value56:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=78, key=qA6WT, value=value51:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=9, key=5Dz2y, value=value24:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=8, key=5B4Zl, value=value86:100:2
+ 7.0.0.0:0 [101] server: create success at time 101, transID=4, key=3tgkg, value=value81:100:1
+ 7.0.0.0:0 [101] server: create success at time 101, transID=77, key=oJpX0, value=value29:100:0
+ 7.0.0.0:0 [101] server: create success at time 101, transID=75, key=mYK9J, value=value24:100:1
+ 6.0.0.0:0 [101] server: create success at time 101, transID=50, key=RbueP, value=value23:100:2
+ 6.0.0.0:0 [101] server: create success at time 101, transID=43, key=PS1Xh, value=value47:100:2
+ 6.0.0.0:0 [101] server: create success at time 101, transID=57, key=XvGef, value=value32:100:2
+ 6.0.0.0:0 [101] server: create success at time 101, transID=36, key=LRdFv, value=value17:100:1
+ 6.0.0.0:0 [101] server: create success at time 101, transID=95, key=yocss, value=value93:100:1
+ 6.0.0.0:0 [101] server: create success at time 101, transID=32, key=Jyn2e, value=value68:100:0
+ 6.0.0.0:0 [101] server: create success at time 101, transID=97, key=zkzCD, value=value25:100:1
+ 6.0.0.0:0 [101] server: create success at time 101, transID=71, key=iwmZ1, value=value88:100:1
+ 6.0.0.0:0 [101] server: create success at time 101, transID=21, key=CzTbz, value=value21:100:2
+ 6.0.0.0:0 [101] server: create success at time 101, transID=68, key=i6vdX, value=value6:100:2
+ 6.0.0.0:0 [101] server: create success at time 101, transID=54, key=UzK4V, value=value39:100:2
+ 6.0.0.0:0 [101] server: create success at time 101, transID=86, key=vaRtp, value=value72:100:2
+ 6.0.0.0:0 [101] server: create success at time 101, transID=13, key=8gsHw, value=value98:100:0
+ 6.0.0.0:0 [101] server: create success at time 101, transID=89, key=xj0n8, value=value45:100:0
+ 6.0.0.0:0 [101] server: create success at time 101, transID=8, key=5B4Zl, value=value86:100:0
+ 6.0.0.0:0 [101] server: create success at time 101, transID=5, key=4QKrM, value=value38:100:1
+ 6.0.0.0:0 [101] server: create success at time 101, transID=3, key=27aMy, value=value70:100:2
+ 6.0.0.0:0 [101] server: create success at time 101, transID=91, key=xoj6Y, value=value56:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=62, key=cRFDY, value=value20:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=98, key=zpwMv, value=value37:100:1
+ 5.0.0.0:0 [101] server: create success at time 101, transID=61, key=cJJei, value=value36:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=60, key=bq4Ym, value=value24:100:1
+ 5.0.0.0:0 [101] server: create success at time 101, transID=58, key=bAiwN, value=value93:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=56, key=XgBHO, value=value50:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=74, key=l7Nnd, value=value95:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=55, key=Vao4f, value=value66:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=53, key=Ufd7h, value=value59:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=96, key=z031k, value=value8:100:1
+ 5.0.0.0:0 [101] server: create success at time 101, transID=52, key=T5SRO, value=value43:100:1
+ 5.0.0.0:0 [101] server: create success at time 101, transID=51, key=SGmu2, value=value59:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=94, key=ynrhd, value=value58:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=49, key=RJ2pE, value=value42:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=83, key=tnJjW, value=value48:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=45, key=PrKzA, value=value71:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=76, key=mz10B, value=value93:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=41, key=NuEZN, value=value2:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=93, key=yeyvu, value=value93:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=34, key=KdP7p, value=value46:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=33, key=JzkZs, value=value94:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=29, key=HMt71, value=value68:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=88, key=vvFEk, value=value3:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=26, key=EAPIb, value=value2:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=25, key=E3Aip, value=value9:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=24, key=Du7AQ, value=value56:100:1
+ 5.0.0.0:0 [101] server: create success at time 101, transID=22, key=D8lpp, value=value87:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=17, key=AsPeh, value=value49:100:1
+ 5.0.0.0:0 [101] server: create success at time 101, transID=75, key=mYK9J, value=value24:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=70, key=initQ, value=value77:100:0
+ 5.0.0.0:0 [101] server: create success at time 101, transID=78, key=qA6WT, value=value51:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=10, key=5ojlV, value=value56:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=9, key=5Dz2y, value=value24:100:2
+ 5.0.0.0:0 [101] server: create success at time 101, transID=77, key=oJpX0, value=value29:100:1
+ 5.0.0.0:0 [101] server: create success at time 101, transID=2, key=1Moid, value=value41:100:0
+ 4.0.0.0:0 [101] server: create success at time 101, transID=96, key=z031k, value=value8:100:2
+ 4.0.0.0:0 [101] server: create success at time 101, transID=87, key=vrN8C, value=value3:100:0
+ 4.0.0.0:0 [101] server: create success at time 101, transID=60, key=bq4Ym, value=value24:100:2
+ 4.0.0.0:0 [101] server: create success at time 101, transID=52, key=T5SRO, value=value43:100:2
+ 4.0.0.0:0 [101] server: create success at time 101, transID=35, key=KjMb9, value=value60:100:0
+ 4.0.0.0:0 [101] server: create success at time 101, transID=24, key=Du7AQ, value=value56:100:2
+ 4.0.0.0:0 [101] server: create success at time 101, transID=99, key=zyV7D, value=value1:100:2
+ 4.0.0.0:0 [101] server: create success at time 101, transID=17, key=AsPeh, value=value49:100:2
+ 4.0.0.0:0 [101] server: create success at time 101, transID=15, key=9NsVn, value=value81:100:2
+ 4.0.0.0:0 [101] server: create success at time 101, transID=70, key=initQ, value=value77:100:1
+ 4.0.0.0:0 [101] server: create success at time 101, transID=77, key=oJpX0, value=value29:100:2
+ 4.0.0.0:0 [101] server: create success at time 101, transID=92, key=yGgQO, value=value11:100:0
+ 4.0.0.0:0 [101] server: create success at time 101, transID=2, key=1Moid, value=value41:100:1
+ 4.0.0.0:0 [101] server: create success at time 101, transID=98, key=zpwMv, value=value37:100:2
+ 3.0.0.0:0 [101] server: create success at time 101, transID=73, key=j6dNG, value=value46:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=72, key=iy7vy, value=value80:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=87, key=vrN8C, value=value3:100:1
+ 3.0.0.0:0 [101] server: create success at time 101, transID=70, key=initQ, value=value77:100:2
+ 3.0.0.0:0 [101] server: create success at time 101, transID=69, key=iHeGD, value=value91:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=63, key=ec3Zp, value=value42:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=85, key=vSLlt, value=value64:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=48, key=QnKOx, value=value49:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=47, key=Q1nM8, value=value67:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=46, key=PsQfG, value=value3:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=44, key=PdZaO, value=value9:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=42, key=OiWjQ, value=value99:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=39, key=Mr6dS, value=value37:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=35, key=KjMb9, value=value60:100:1
+ 3.0.0.0:0 [101] server: create success at time 101, transID=30, key=Hak6B, value=value62:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=28, key=Fx5Ix, value=value9:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=80, key=rxHU1, value=value95:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=20, key=CQej7, value=value58:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=16, key=ANyBc, value=value13:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=92, key=yGgQO, value=value11:100:1
+ 3.0.0.0:0 [101] server: create success at time 101, transID=79, key=rhaW2, value=value55:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=12, key=8W7KX, value=value85:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=6, key=4StxJ, value=value78:100:0
+ 3.0.0.0:0 [101] server: create success at time 101, transID=2, key=1Moid, value=value41:100:2
+ 2.0.0.0:0 [101] server: create success at time 101, transID=90, key=xm2V1, value=value97:100:1
+ 2.0.0.0:0 [101] server: create success at time 101, transID=89, key=xj0n8, value=value45:100:1
+ 2.0.0.0:0 [101] server: create success at time 101, transID=88, key=vvFEk, value=value3:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=83, key=tnJjW, value=value48:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=97, key=zkzCD, value=value25:100:2
+ 2.0.0.0:0 [101] server: create success at time 101, transID=78, key=qA6WT, value=value51:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=76, key=mz10B, value=value93:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=75, key=mYK9J, value=value24:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=74, key=l7Nnd, value=value95:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=71, key=iwmZ1, value=value88:100:2
+ 2.0.0.0:0 [101] server: create success at time 101, transID=66, key=h3qRF, value=value46:100:2
+ 2.0.0.0:0 [101] server: create success at time 101, transID=95, key=yocss, value=value93:100:2
+ 2.0.0.0:0 [101] server: create success at time 101, transID=62, key=cRFDY, value=value20:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=61, key=cJJei, value=value36:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=58, key=bAiwN, value=value93:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=56, key=XgBHO, value=value50:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=55, key=Vao4f, value=value66:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=53, key=Ufd7h, value=value59:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=51, key=SGmu2, value=value59:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=49, key=RJ2pE, value=value42:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=45, key=PrKzA, value=value71:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=41, key=NuEZN, value=value2:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=94, key=ynrhd, value=value58:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=36, key=LRdFv, value=value17:100:2
+ 2.0.0.0:0 [101] server: create success at time 101, transID=32, key=Jyn2e, value=value68:100:1
+ 2.0.0.0:0 [101] server: create success at time 101, transID=29, key=HMt71, value=value68:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=26, key=EAPIb, value=value2:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=25, key=E3Aip, value=value9:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=23, key=DYtot, value=value6:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=22, key=D8lpp, value=value87:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=93, key=yeyvu, value=value93:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=13, key=8gsHw, value=value98:100:1
+ 2.0.0.0:0 [101] server: create success at time 101, transID=11, key=5tuhB, value=value49:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=10, key=5ojlV, value=value56:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=9, key=5Dz2y, value=value24:100:0
+ 2.0.0.0:0 [101] server: create success at time 101, transID=8, key=5B4Zl, value=value86:100:1
+ 2.0.0.0:0 [101] server: create success at time 101, transID=5, key=4QKrM, value=value38:100:2
+ 2.0.0.0:0 [101] server: create success at time 101, transID=4, key=3tgkg, value=value81:100:0
+ 1.0.0.0:0 [101] server: create success at time 101, transID=97, key=zkzCD, value=value25:100:0
+ 1.0.0.0:0 [101] server: create success at time 101, transID=95, key=yocss, value=value93:100:0
+ 1.0.0.0:0 [101] server: create success at time 101, transID=91, key=xoj6Y, value=value56:100:1
+ 1.0.0.0:0 [101] server: create success at time 101, transID=86, key=vaRtp, value=value72:100:1
+ 1.0.0.0:0 [101] server: create success at time 101, transID=84, key=usDDW, value=value59:100:2
+ 1.0.0.0:0 [101] server: create success at time 101, transID=82, key=sb2hw, value=value37:100:2
+ 1.0.0.0:0 [101] server: create success at time 101, transID=81, key=sDKye, value=value57:100:2
+ 1.0.0.0:0 [101] server: create success at time 101, transID=71, key=iwmZ1, value=value88:100:0
+ 1.0.0.0:0 [101] server: create success at time 101, transID=68, key=i6vdX, value=value6:100:1
+ 1.0.0.0:0 [101] server: create success at time 101, transID=67, key=haPF1, value=value72:100:2
+ 1.0.0.0:0 [101] server: create success at time 101, transID=66, key=h3qRF, value=value46:100:0
+ 1.0.0.0:0 [101] server: create success at time 101, transID=65, key=ftuEf, value=value26:100:2
+ 1.0.0.0:0 [101] server: create success at time 101, transID=57, key=XvGef, value=value32:100:1
+ 1.0.0.0:0 [101] server: create success at time 101, transID=54, key=UzK4V, value=value39:100:1
+ 1.0.0.0:0 [101] server: create success at time 101, transID=50, key=RbueP, value=value23:100:1
+ 1.0.0.0:0 [101] server: create success at time 101, transID=43, key=PS1Xh, value=value47:100:1
+ 1.0.0.0:0 [101] server: create success at time 101, transID=40, key=N9L6R, value=value94:100:2
+ 1.0.0.0:0 [101] server: create success at time 101, transID=38, key=MpjeL, value=value17:100:2
+ 1.0.0.0:0 [101] server: create success at time 101, transID=36, key=LRdFv, value=value17:100:0
+ 1.0.0.0:0 [101] server: create success at time 101, transID=21, key=CzTbz, value=value21:100:1
+ 1.0.0.0:0 [101] server: create success at time 101, transID=18, key=BkfgW, value=value28:100:1
+ 1.0.0.0:0 [101] server: create success at time 101, transID=14, key=8hiRA, value=value30:100:2
+ 1.0.0.0:0 [101] server: create success at time 101, transID=5, key=4QKrM, value=value38:100:0
+ 1.0.0.0:0 [101] server: create success at time 101, transID=3, key=27aMy, value=value70:100:1
+ 1.0.0.0:0 [101] server: create success at time 101, transID=1, key=0e6GD, value=value76:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=12, key=8W7KX, value=value85:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=55, key=Vao4f, value=value66:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=29, key=HMt71, value=value68:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=43, key=PS1Xh, value=value47:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=80, key=rxHU1, value=value95:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=97, key=zkzCD, value=value25:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=93, key=yeyvu, value=value93:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=48, key=QnKOx, value=value49:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=71, key=iwmZ1, value=value88:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=69, key=iHeGD, value=value91:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=9, key=5Dz2y, value=value24:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=25, key=E3Aip, value=value9:100:2
+ 10.0.0.0:0 [102] coordinator: create success at time 102, transID=10, key=5ojlV, value=value56:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=75, key=mYK9J, value=value24:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=42, key=OiWjQ, value=value99:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=51, key=SGmu2, value=value59:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=26, key=EAPIb, value=value2:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=53, key=Ufd7h, value=value59:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=13, key=8gsHw, value=value98:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=60, key=bq4Ym, value=value24:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=83, key=tnJjW, value=value48:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=96, key=z031k, value=value8:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=87, key=vrN8C, value=value3:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=94, key=ynrhd, value=value58:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=38, key=MpjeL, value=value17:100:2
+ 9.0.0.0:0 [102] coordinator: create success at time 102, transID=86, key=vaRtp, value=value72:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=79, key=rhaW2, value=value55:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=81, key=sDKye, value=value57:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=89, key=xj0n8, value=value45:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=88, key=vvFEk, value=value3:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=78, key=qA6WT, value=value51:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=2, key=1Moid, value=value41:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=47, key=Q1nM8, value=value67:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=85, key=vSLlt, value=value64:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=8, key=5B4Zl, value=value86:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=76, key=mz10B, value=value93:100:2
+ 8.0.0.0:0 [102] coordinator: create success at time 102, transID=3, key=27aMy, value=value70:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=36, key=LRdFv, value=value17:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=22, key=D8lpp, value=value87:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=41, key=NuEZN, value=value2:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=6, key=4StxJ, value=value78:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=16, key=ANyBc, value=value13:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=72, key=iy7vy, value=value80:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=21, key=CzTbz, value=value21:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=59, key=bFlXr, value=value92:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=5, key=4QKrM, value=value38:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=27, key=F1y5F, value=value37:100:2
+ 7.0.0.0:0 [102] coordinator: create success at time 102, transID=35, key=KjMb9, value=value60:100:2
+ 6.0.0.0:0 [102] coordinator: create success at time 102, transID=18, key=BkfgW, value=value28:100:2
+ 6.0.0.0:0 [102] coordinator: create success at time 102, transID=90, key=xm2V1, value=value97:100:2
+ 6.0.0.0:0 [102] coordinator: create success at time 102, transID=66, key=h3qRF, value=value46:100:2
+ 6.0.0.0:0 [102] coordinator: create success at time 102, transID=63, key=ec3Zp, value=value42:100:2
+ 6.0.0.0:0 [102] coordinator: create success at time 102, transID=82, key=sb2hw, value=value37:100:2
+ 6.0.0.0:0 [102] coordinator: create success at time 102, transID=14, key=8hiRA, value=value30:100:2
+ 6.0.0.0:0 [102] coordinator: create success at time 102, transID=67, key=haPF1, value=value72:100:2
+ 6.0.0.0:0 [102] coordinator: create success at time 102, transID=39, key=Mr6dS, value=value37:100:2
+ 6.0.0.0:0 [102] coordinator: create success at time 102, transID=20, key=CQej7, value=value58:100:2
+ 5.0.0.0:0 [102] coordinator: create success at time 102, transID=23, key=DYtot, value=value6:100:2
+ 5.0.0.0:0 [102] coordinator: create success at time 102, transID=32, key=Jyn2e, value=value68:100:2
+ 5.0.0.0:0 [102] coordinator: create success at time 102, transID=4, key=3tgkg, value=value81:100:2
+ 5.0.0.0:0 [102] coordinator: create success at time 102, transID=11, key=5tuhB, value=value49:100:2
+ 5.0.0.0:0 [102] coordinator: create success at time 102, transID=15, key=9NsVn, value=value81:100:2
+ 5.0.0.0:0 [102] coordinator: create success at time 102, transID=99, key=zyV7D, value=value1:100:2
+ 5.0.0.0:0 [102] coordinator: create success at time 102, transID=30, key=Hak6B, value=value62:100:2
+ 5.0.0.0:0 [102] coordinator: create success at time 102, transID=19, key=C2AcP, value=value92:100:2
+ 5.0.0.0:0 [102] coordinator: create success at time 102, transID=1, key=0e6GD, value=value76:100:2
+ 4.0.0.0:0 [102] coordinator: create success at time 102, transID=54, key=UzK4V, value=value39:100:2
+ 4.0.0.0:0 [102] coordinator: create success at time 102, transID=49, key=RJ2pE, value=value42:100:2
+ 4.0.0.0:0 [102] coordinator: create success at time 102, transID=56, key=XgBHO, value=value50:100:2
+ 4.0.0.0:0 [102] coordinator: create success at time 102, transID=68, key=i6vdX, value=value6:100:2
+ 4.0.0.0:0 [102] coordinator: create success at time 102, transID=73, key=j6dNG, value=value46:100:2
+ 4.0.0.0:0 [102] coordinator: create success at time 102, transID=84, key=usDDW, value=value59:100:2
+ 4.0.0.0:0 [102] coordinator: create success at time 102, transID=91, key=xoj6Y, value=value56:100:2
+ 4.0.0.0:0 [102] coordinator: create success at time 102, transID=95, key=yocss, value=value93:100:2
+ 4.0.0.0:0 [102] coordinator: create success at time 102, transID=28, key=Fx5Ix, value=value9:100:2
+ 3.0.0.0:0 [102] coordinator: create success at time 102, transID=77, key=oJpX0, value=value29:100:2
+ 3.0.0.0:0 [102] coordinator: create success at time 102, transID=52, key=T5SRO, value=value43:100:2
+ 3.0.0.0:0 [102] coordinator: create success at time 102, transID=74, key=l7Nnd, value=value95:100:2
+ 3.0.0.0:0 [102] coordinator: create success at time 102, transID=50, key=RbueP, value=value23:100:2
+ 3.0.0.0:0 [102] coordinator: create success at time 102, transID=61, key=cJJei, value=value36:100:2
+ 3.0.0.0:0 [102] coordinator: create success at time 102, transID=45, key=PrKzA, value=value71:100:2
+ 3.0.0.0:0 [102] coordinator: create success at time 102, transID=37, key=MKpaL, value=value52:100:2
+ 2.0.0.0:0 [102] coordinator: create success at time 102, transID=70, key=initQ, value=value77:100:2
+ 2.0.0.0:0 [102] coordinator: create success at time 102, transID=17, key=AsPeh, value=value49:100:2
+ 2.0.0.0:0 [102] coordinator: create success at time 102, transID=33, key=JzkZs, value=value94:100:2
+ 2.0.0.0:0 [102] coordinator: create success at time 102, transID=34, key=KdP7p, value=value46:100:2
+ 2.0.0.0:0 [102] coordinator: create success at time 102, transID=57, key=XvGef, value=value32:100:2
+ 2.0.0.0:0 [102] coordinator: create success at time 102, transID=65, key=ftuEf, value=value26:100:2
+ 2.0.0.0:0 [102] coordinator: create success at time 102, transID=40, key=N9L6R, value=value94:100:2
+ 2.0.0.0:0 [102] coordinator: create success at time 102, transID=31, key=JAJJX, value=value56:100:2
+ 1.0.0.0:0 [102] coordinator: create success at time 102, transID=92, key=yGgQO, value=value11:100:2
+ 1.0.0.0:0 [102] coordinator: create success at time 102, transID=24, key=Du7AQ, value=value56:100:2
+ 1.0.0.0:0 [102] coordinator: create success at time 102, transID=58, key=bAiwN, value=value93:100:2
+ 1.0.0.0:0 [102] coordinator: create success at time 102, transID=98, key=zpwMv, value=value37:100:2
+ 1.0.0.0:0 [102] coordinator: create success at time 102, transID=62, key=cRFDY, value=value20:100:2
+ 1.0.0.0:0 [102] coordinator: create success at time 102, transID=46, key=PsQfG, value=value3:100:2
+ 1.0.0.0:0 [102] coordinator: create success at time 102, transID=44, key=PdZaO, value=value9:100:2
+ 1.0.0.0:0 [102] coordinator: create success at time 102, transID=0, key=08xOI, value=value10:100:2
+ 1.0.0.0:0 [102] coordinator: create success at time 102, transID=64, key=fcRQY, value=value2:100:2
+ 1.0.0.0:0 [102] coordinator: create success at time 102, transID=7, key=4qPoo, value=value17:100:2
+ 9.0.0.0:0 [150] UPDATE OPERATION KEY: 0e6GD VALUE: newValue at time: 150
+ 10.0.0.0:0 [151] server: update success at time 151, transID=100, key=0e6GD, value=newValue:150:1
+ 8.0.0.0:0 [151] server: update success at time 151, transID=100, key=0e6GD, value=newValue:150:0
+ 1.0.0.0:0 [151] server: update success at time 151, transID=100, key=0e6GD, value=newValue:150:2
+ 9.0.0.0:0 [152] coordinator: update success at time 152, transID=100, key=0e6GD, value=newValue:150:2
+ 1.0.0.0:0 [175] Node failed at time=175
+ 4.0.0.0:0 [175] UPDATE OPERATION KEY: 0e6GD VALUE: newValue at time: 175
+ 10.0.0.0:0 [176] server: update success at time 176, transID=101, key=0e6GD, value=newValue:175:1
+ 8.0.0.0:0 [176] server: update success at time 176, transID=101, key=0e6GD, value=newValue:175:0
+ 4.0.0.0:0 [177] coordinator: update success at time 177, transID=101, key=0e6GD, value=newValue:175:2
+ 8.0.0.0:0 [197] Node 1.0.0.0:0 removed at time 197
+ 7.0.0.0:0 [197] Node 1.0.0.0:0 removed at time 197
+ 6.0.0.0:0 [197] Node 1.0.0.0:0 removed at time 197
+ 5.0.0.0:0 [197] Node 1.0.0.0:0 removed at time 197
+ 4.0.0.0:0 [197] Node 1.0.0.0:0 removed at time 197
+ 4.0.0.0:0 [197] update the ring
+ 5.0.0.0:0 [197] update the ring
+ 6.0.0.0:0 [197] update the ring
+ 7.0.0.0:0 [197] update the ring
+ 8.0.0.0:0 [197] update the ring
+ 10.0.0.0:0 [198] Node 1.0.0.0:0 removed at time 198
+ 9.0.0.0:0 [198] Node 1.0.0.0:0 removed at time 198
+ 3.0.0.0:0 [198] Node 1.0.0.0:0 removed at time 198
+ 2.0.0.0:0 [198] Node 1.0.0.0:0 removed at time 198
+ 2.0.0.0:0 [198] update the ring
+ 3.0.0.0:0 [198] update the ring
+ 9.0.0.0:0 [198] update the ring
+ 10.0.0.0:0 [198] update the ring
+ 6.0.0.0:0 [225] Node failed at time=225
+ 10.0.0.0:0 [225] Node failed at time=225
+ 9.0.0.0:0 [225] UPDATE OPERATION KEY: 0e6GD VALUE: newValue at time: 225
+ 8.0.0.0:0 [226] server: update success at time 226, transID=682, key=0e6GD, value=newValue:225:0
+ 9.0.0.0:0 [236] coordinator: update fail at time 236, transID=682, key=0e6GD, value=newValue:225:2
+ 9.0.0.0:0 [247] Node 10.0.0.0:0 removed at time 247
+ 8.0.0.0:0 [247] Node 6.0.0.0:0 removed at time 247
+ 8.0.0.0:0 [247] Node 10.0.0.0:0 removed at time 247
+ 7.0.0.0:0 [247] Node 6.0.0.0:0 removed at time 247
+ 7.0.0.0:0 [247] Node 10.0.0.0:0 removed at time 247
+ 5.0.0.0:0 [247] Node 6.0.0.0:0 removed at time 247
+ 4.0.0.0:0 [247] Node 6.0.0.0:0 removed at time 247
+ 3.0.0.0:0 [247] Node 6.0.0.0:0 removed at time 247
+ 3.0.0.0:0 [247] Node 10.0.0.0:0 removed at time 247
+ 2.0.0.0:0 [247] Node 10.0.0.0:0 removed at time 247
+ 2.0.0.0:0 [247] update the ring
+ 3.0.0.0:0 [247] update the ring
+ 4.0.0.0:0 [247] update the ring
+ 5.0.0.0:0 [247] update the ring
+ 7.0.0.0:0 [247] update the ring
+ 8.0.0.0:0 [247] update the ring
+ 9.0.0.0:0 [247] update the ring
+ 9.0.0.0:0 [248] Node 6.0.0.0:0 removed at time 248
+ 5.0.0.0:0 [248] Node 10.0.0.0:0 removed at time 248
+ 4.0.0.0:0 [248] Node 10.0.0.0:0 removed at time 248
+ 2.0.0.0:0 [248] Node 6.0.0.0:0 removed at time 248
+ 2.0.0.0:0 [248] update the ring
+ 4.0.0.0:0 [248] update the ring
+ 5.0.0.0:0 [248] update the ring
+ 9.0.0.0:0 [248] update the ring
+ 5.0.0.0:0 [275] UPDATE OPERATION KEY: 0e6GD VALUE: newValue at time: 275
+ 8.0.0.0:0 [276] server: update success at time 276, transID=1823, key=0e6GD, value=newValue:275:0
+ 7.0.0.0:0 [276] server: update success at time 276, transID=1823, key=0e6GD, value=newValue:275:2
+ 2.0.0.0:0 [276] server: update success at time 276, transID=1823, key=0e6GD, value=newValue:275:1
+ 5.0.0.0:0 [277] coordinator: update success at time 277, transID=1823, key=0e6GD, value=newValue:275:2
+ 3.0.0.0:0 [285] Node failed at time=285
+ 8.0.0.0:0 [285] UPDATE OPERATION KEY: 0e6GD VALUE: newValue at time: 285
+ 8.0.0.0:0 [285] server: update success at time 285, transID=1824, key=0e6GD, value=newValue:285:0
+ 7.0.0.0:0 [285] UPDATE OPERATION KEY: invalidKey VALUE: invalidValue at time: 285
+ 7.0.0.0:0 [285] server: update fail at time 285, transID=1825, key=invalidKey, value=invalidValue:285:0
+ 7.0.0.0:0 [286] server: update success at time 286, transID=1824, key=0e6GD, value=newValue:285:2
+ 5.0.0.0:0 [286] server: update fail at time 286, transID=1825, key=invalidKey, value=invalidValue:285:1
+ 4.0.0.0:0 [286] server: update fail at time 286, transID=1825, key=invalidKey, value=invalidValue:285:2
+ 2.0.0.0:0 [286] server: update success at time 286, transID=1824, key=0e6GD, value=newValue:285:1
+ 8.0.0.0:0 [287] coordinator: update success at time 287, transID=1824, key=0e6GD, value=newValue:285:2
+ 7.0.0.0:0 [287] coordinator: update fail at time 287, transID=1825, key=invalidKey, value=invalidValue:285:2
+ 9.0.0.0:0 [307] Node 3.0.0.0:0 removed at time 307
+ 5.0.0.0:0 [307] Node 3.0.0.0:0 removed at time 307
+ 4.0.0.0:0 [307] Node 3.0.0.0:0 removed at time 307
+ 2.0.0.0:0 [307] Node 3.0.0.0:0 removed at time 307
+ 2.0.0.0:0 [307] update the ring
+ 4.0.0.0:0 [307] update the ring
+ 5.0.0.0:0 [307] update the ring
+ 9.0.0.0:0 [307] update the ring
+ 8.0.0.0:0 [308] Node 3.0.0.0:0 removed at time 308
+ 7.0.0.0:0 [308] Node 3.0.0.0:0 removed at time 308
+ 7.0.0.0:0 [308] update the ring
+ 8.0.0.0:0 [308] update the ring
